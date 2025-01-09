@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @TebohoXaba
+- 👀 I’m interested in Digital Transformation
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Machine Learning
+- 📫 How to reach me tebohoxaba53@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Animal Lover
+
+<!---
+TebohoXaba/TebohoXaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
