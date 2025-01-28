@@ -10,7 +10,7 @@ $origin = urlencode($_GET['origin']);
 $destination = urlencode($_GET['destination']);
 
 // Your Google Maps API Key
-$apiKey = 'AIzaSyB5cy0NoBdzweXFu0w0vjpr9itsGHTzSNk';
+$apiKey = 'api';
 
 // Google Maps Distance Matrix API URL
 $url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=$origin&destinations=$destination&key=$apiKey";
