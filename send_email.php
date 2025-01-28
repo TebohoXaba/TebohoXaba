@@ -25,10 +25,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         try {
             // Server settings
             $mail->isSMTP(); // Set mailer to use SMTP
-            $mail->Host = 'da13.host-ww.net'; // SMTP server
+            $mail->Host = 'host'; // SMTP server
             $mail->SMTPAuth = true; // Enable SMTP authentication
             $mail->Username = 'no-reply@zxfleet.co.za'; // Admin email address
-            $mail->Password = '@3108BTx'; // Admin email password
+            $mail->Password = 'password'; // Admin email password
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // Use SSL for secure connection
             $mail->Port = 465; // Set the port to 465 for SSL
 
