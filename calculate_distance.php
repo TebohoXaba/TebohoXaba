@@ -1,7 +1,7 @@
 <?php
 // Function to calculate the distance between two locations using the Google Distance Matrix API
 function getDistance($origin, $destination) {
-    $apiKey = 'AIzaSyB5cy0NoBdzweXFu0w0vjpr9itsGHTzSNk'; // Replace with your actual Google Maps API key
+    $apiKey = 'api'; // Replace with your actual Google Maps API key
     $url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=" . urlencode($origin) . "&destinations=" . urlencode($destination) . "&key=" . $apiKey;
 
     // Use cURL to fetch data from Google Maps API
