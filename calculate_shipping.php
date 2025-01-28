@@ -9,7 +9,7 @@ if (!isset($_SESSION['user'])) {
 
 // Function to calculate the distance between two locations using the Google Distance Matrix API
 function getDistance($origin, $destination) {
-    $apiKey = 'AIzaSyCRcZkXfDj0NzM0ADEqIz6ffudm53NMZuw'; // Replace with your actual Google Maps API key
+    $apiKey = 'Api'; // Replace with your actual Google Maps API key
     $url = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=" . urlencode($origin) . "&destinations=" . urlencode($destination) . "&key=" . $apiKey;
 
     $ch = curl_init();
