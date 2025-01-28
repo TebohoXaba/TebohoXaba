@@ -71,10 +71,10 @@ try {
             try {
                 // Server settings
                 $mail->isSMTP();
-                $mail->Host = 'da13.host-ww.net'; // Set to the recommended mail server
+                $mail->Host = 'host'; // Set to the recommended mail server
                 $mail->SMTPAuth = true;
                 $mail->Username = 'no-reply@zxfleet.co.za';
-                $mail->Password = '@3108BTx'; // Use the correct email password
+                $mail->Password = 'password'; // Use the correct email password
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // Use SSL for secure connection
                 $mail->Port = 465; // Set the port to 465 for SSL
 
