@@ -1,10 +1,10 @@
 <?php
 // Google Maps API Key
-define('GOOGLE_MAPS_API_KEY', 'AIzaSyB5cy0NoBdzweXFu0w0vjpr9itsGHTzSNk');
+define('GOOGLE_MAPS_API_KEY', 'api');
 
 // PayFast Sandbox API Credentials
-define('PAYFAST_MERCHANT_ID', '10033933');
-define('PAYFAST_MERCHANT_KEY', '083tpc9opqqar');
+define('PAYFAST_MERCHANT_ID', 'fill_this');
+define('PAYFAST_MERCHANT_KEY', 'fill_this');
 
 // Return, Cancel, and Notify URLs for PayFast
 define('PAYFAST_RETURN_URL', 'http://localhost/shipping_website/success.php');
