@@ -4,7 +4,6 @@
     <div class="navbar">
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
-        <a href="#youtube">YouTube</a>
         <a href="#contact">Contact</a>
     </div>
     <div class="header-container">
