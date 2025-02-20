@@ -175,14 +175,6 @@
             <div class="project-card"><a href="#">Dear Diary</a><br>Personal journal & AI insights App (*Coming Soon!*)</div>
         </div>
     </div>
-    <div class="content" id="youtube">
-        <h2>🎥 My YouTube Channel: The Way to Transform</h2>
-        <div class="video-container">
-            <iframe id="youtube-video" src="https://www.youtube.com/embed/LWBLDtV5YGk" frameborder="0" allowfullscreen></iframe>
-        </div>
-        <button onclick="changeVideo('LWBLDtV5YGk')">Why Subscribe</button>
-        <button onclick="changeVideo('9L8d_gwc7YQ')">Creating Data on MS Excel</button>
-    </div>
     <div class="content" id="contact">
         <h2>📬 Get In Touch</h2>
         <p>
@@ -192,10 +184,3 @@
             <a href="mailto:teboho.xaba@zxfleet.co.za">Email</a>
         </p>
     </div>
-    <script>
-        function changeVideo(videoId) {
-            document.getElementById('youtube-video').src = "https://www.youtube.com/embed/" + videoId;
-        }
-    </script>
-</body>
-</html>
