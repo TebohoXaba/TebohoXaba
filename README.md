@@ -68,7 +68,7 @@ SQL           █                       1 hr 31 mins
 ### 🔍 Quick Links
 
 <p align="center">
-  <a href="https://zxfleet.co.za" target="_blank"><img src="https://img.shields.io/badge/🌍 Website-blue?style=for-the-badge"></a>
+  <a href="https://tebohoxaba.github.io/My-Profile/" target="_blank"><img src="https://img.shields.io/badge/🌍 Website-blue?style=for-the-badge"></a>
   <a href="#projects" target="_blank"><img src="https://img.shields.io/badge/🔍 Search-grey?style=for-the-badge"></a>
 </p>
 
