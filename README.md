@@ -1,5 +1,3 @@
-![Profile Banner](https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg)
-
 <h1 align="center">🚀 Teboho Xaba - The Value Chain Programmer</h1>
 <p align="center">
   <strong>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</strong>
