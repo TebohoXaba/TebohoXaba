@@ -1,38 +1,75 @@
-</head>
-<body>
-    <div class="background-animation"></div>
-    <div class="navbar">
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-    </div>
-    <div class="header-container">
-        <img src="https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg" alt="Teboho Xaba" class="profile-img">
-        <div class="header-text">
-            <h1>🚀 Teboho Xaba - The Value Chain Programmer</h1>
-            <h3>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</h3>
-        </div>
-    </div>
-    <div class="content" id="about">
-        <h2>About Me</h2>
-        <p>👋 Hi there! I'm <strong>Teboho Xaba</strong>, a Python developer passionate about <strong>data analytics, automation, and machine learning</strong>.</p>
-        <p>With a background in <strong>Logistics and Supply Chain Management</strong>, specializing in <strong>Road Transport</strong>, I strive to leverage <strong>technology for efficiency and innovation</strong>.</p>
-        <p>🔹 <em>Looking to collaborate?</em> Feel free to explore my projects or get in touch!</p>
-    </div>
-    <div class="content" id="projects">
-        <h2>🚀 Featured Projects</h2>
-        <div class="projects">
-            <div class="project-card"><a href="https://zxfleet.co.za">Z X Fleet</a><br>3P - Road Freight Logistics Partner site</div>
-            <div class="project-card"><a href="https://gcswarehouse.co.za">GCS Warehouse</a><br>Smart Home Improvements E-Commerce site</div>
-            <div class="project-card"><a href="#">Dear Diary</a><br>Personal journal & AI insights App (*Coming Soon!*)</div>
-        </div>
-    </div>
-    <div class="content" id="contact">
-        <h2>📬 Get In Touch</h2>
-        <p>
-            <a href="https://www.linkedin.com/in/teboho-xaba-a142b617b/">LinkedIn</a> |
-            <a href="https://github.com/TebohoXaba">GitHub</a> |
-            <a href="https://www.youtube.com/@Real_Nonkosi">YouTube</a> |
-            <a href="mailto:teboho.xaba@zxfleet.co.za">Email</a>
-        </p>
-    </div>
+![Profile Banner](https://raw.githubusercontent.com/TebohoXaba/My-Profile/main/.github/Title.jpg)
+
+<h1 align="center">🚀 Teboho Xaba - The Value Chain Programmer</h1>
+<p align="center">
+  <strong>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</strong>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="400px">
+</div>
+
+---
+
+## 🌍 About Me
+
+- 👋 Hi there! I'm **Teboho Xaba**, a Python developer passionate about **data analytics, automation, and machine learning**.
+- 🎯 My background is in **Logistics and Supply Chain Management**, specializing in **Road Transport**.
+- 🔹 Looking to **collaborate**? Feel free to explore my projects or get in touch!
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|------------|
+| [Z X Fleet](https://zxfleet.co.za) | 3P - Road Freight Logistics Partner site |
+| [GCS Warehouse](https://gcswarehouse.co.za) | Smart Home Improvements E-Commerce site |
+| Dear Diary (*Coming Soon!*) | Personal journal & AI insights App |
+
+---
+
+## 📊 Language Metrics
+
+```text
+Python        ████████████████████  286 hrs 32 mins
+HTML          ██                     29 hrs 29 mins
+YAML          ██                     18 hrs 21 mins
+Bash          █                       4 hrs 5 mins
+JavaScript    █                       3 hrs 19 mins
+CSS           █                       2 hrs 46 mins
+SQL           █                       1 hr 31 mins
+```
+
+---
+
+## 📬 Get In Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/teboho-xaba-a142b617b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/TebohoXaba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:teboho.xaba@zxfleet.co.za"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/@Real_Nonkosi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🎖️ Developer Program Member
+- 📜 Certifications: Agile Whitebelt, Change Management
+- 🛠️ Built an HR Master Data Process internal site saving **R100,000+** in IT costs
+- 🚀 Managed operations for TaDa Drinks Delivery closure
+
+---
+
+### 🔍 Quick Links
+
+<p align="center">
+  <a href="https://zxfleet.co.za" target="_blank"><img src="https://img.shields.io/badge/🌍 Website-blue?style=for-the-badge"></a>
+  <a href="#projects" target="_blank"><img src="https://img.shields.io/badge/🔍 Search-grey?style=for-the-badge"></a>
+</p>
+
+---
