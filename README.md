@@ -59,7 +59,7 @@ SQL           █                       1 hr 31 mins
 - 🎖️ Developer Program Member
 - 📜 Certifications: Agile Whitebelt, Change Management, and Lean Six Sigma Whitebelt
 - 🛠️ Built an HR Master Data Process internal site saving **R100,000+** in IT costs
-- 🚀 Managed operations for TaDa Drinks Delivery closure
+- 🚀 Managed operations for TaDa Drinks Delivery SA closure
 
 ---
 
