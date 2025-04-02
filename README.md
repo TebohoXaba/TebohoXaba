@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Teboho Xaba - The Value Chain Programmer</h1>
+8<h1 align="center">🚀 Teboho Xaba - The Value Chain Programmer</h1>
 <p align="center">
   <strong>Python Developer | Data Science | Automation | Machine Learning | Supply Chain | Logistics</strong>
 </p>
@@ -34,11 +34,11 @@
 ```text
 Python        ████████████████████  286 hrs 32 mins
 HTML          ██                     29 hrs 29 mins
-YAML          ██                     18 hrs 21 mins
-Bash          █                       4 hrs 5 mins
+MySQL          ██                     18 hrs 21 mins
+CSS          █                       4 hrs 5 mins
 JavaScript    █                       3 hrs 19 mins
-CSS           █                       2 hrs 46 mins
-SQL           █                       1 hr 31 mins
+C#           █                       2 hrs 46 mins
+Tableau          █                       1 hr 31 mins
 ```
 
 ---
