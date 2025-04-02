@@ -38,7 +38,7 @@ MySQL         ██                     18 hrs 21 mins
 CSS           █                       4 hrs 5 mins
 JavaScript    █                       3 hrs 19 mins
 C#            █                       2 hrs 46 mins
-Tableau       █                       1 hr 31 mins
+DAX.          █                       1 hr 31 mins
 ```
 
 ---
