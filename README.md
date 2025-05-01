@@ -57,7 +57,7 @@ R.            █                        1 hr 31 mins
 ## 🏆 Achievements
 
 - 🎖️ Developer Program Member
-- 📜 Certifications: Agile Whitebelt, Change Management, and Lean Six Sigma Whitebelt
+- 📜 Certifications: Agile Whitebelt, Change Management, and Lean Six Sigma Yellow belt
 - 🛠️ Built an HR Master Data Process internal site saving **R100,000+** in IT costs
 - 🚀 Managed operations for TaDa Drinks Delivery SA closure
 
